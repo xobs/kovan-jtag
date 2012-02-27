@@ -1,0 +1,2 @@
+This program configures the GPIOs on a Kovan unit, then requests the
+ID CODE from the FPGA and prints it out to the terminal.
